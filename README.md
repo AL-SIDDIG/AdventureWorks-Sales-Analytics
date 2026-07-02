@@ -142,12 +142,12 @@ Some of the insights generated include:
 ## Repository Structure
 
 ```text
-01-Database
+01-Business_Requirements
 02-Data-Warehouse
 03-ETL
 04-Analysis
 05-PowerBI
-06-Screenshots
+06-Documentation
 ```
 
 ---
