@@ -143,11 +143,12 @@ Some of the insights generated include:
 
 ```text
 01-Business_Requirements
-02-Data-Warehouse
-03-ETL
+02-Database
+03-Data-Warehouse
 04-Analysis
 05-PowerBI
 06-Documentation
+07-Presentation
 ```
 
 ---
